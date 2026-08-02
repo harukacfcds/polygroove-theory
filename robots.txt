@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harukacfcds.github.io/polygroove-theory/sitemap.xml
